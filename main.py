@@ -29,7 +29,7 @@ while command != "quit":
     home before dinner with the milk that you promised you'd get. But luckily you have a bit of spare money to
     give to an Ulift. So you go to the Ulift app and do all of the boring stuff to get a Ulift driver. They came
     in about 5 minutes to drive you to your house. Nice! But your parents are gonna be mad as fuck that the car
-    broke down. Type "home" into your house""")
+    broke down. Type "home" to enter your home""")
   elif command == "home":
     print(" ")
     print("""You enter your house to find.. nobody. You checked every single corner of the house to find your parents, but
